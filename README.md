@@ -1,4 +1,4 @@
 # hello_world
 practice repository
 
-Learning GitHub through the tutorial!
+Going through the Hello World Tutorial!
